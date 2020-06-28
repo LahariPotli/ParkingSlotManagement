@@ -1,2 +1,2 @@
-# ParkingSlotManagement
-An employee can book his parking slot 
+# parkingSlotManagement
+An employee can book a parking slot
